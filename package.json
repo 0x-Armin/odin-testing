@@ -11,5 +11,9 @@
     "url": "git@github.com-0x-Armin:0x-Armin/odin-testing.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.3.1"
+  }
 }
